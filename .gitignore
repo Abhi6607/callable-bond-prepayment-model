@@ -1,0 +1,15 @@
+# Data files
+*.csv
+*.rds
+*.txt
+*.zip
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+.Rapp.history
